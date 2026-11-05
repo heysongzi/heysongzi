@@ -1,4 +1,4 @@
-<h1 align="center">Songzi.</h1>
+<h1 align="center">Piney.</h1>
 <p align="center"><strong>松子 · AI Research Student</strong></p>
 <p align="center">AI Agents &nbsp;·&nbsp; Backend Engineering &nbsp;·&nbsp; Applied Research</p><p align="center">
   AI 方向硕士研究生，主要关注 AI Agent 的工程实践与后端开发。<br>
